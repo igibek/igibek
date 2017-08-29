@@ -1,9 +1,9 @@
 ## Welcome!
 
 ## Bio
-**Interests:** Cybersecurity, Machine Learning, Software Engineering
-**From:** Kazakhstan
-**Live:** Raleigh, NC
+**Interests:** Cybersecurity, Machine Learning, Software Engineering  
+**From:** Kazakhstan  
+**Live:** Raleigh, NC  
 
 ### Education
 
