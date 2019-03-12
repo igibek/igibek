@@ -42,7 +42,7 @@ instagram: kigibek
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: igibek
+github_link: igibek
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -59,7 +59,8 @@ authors:
         bio: I value honesty, passion and hard work in every aspect of my life.
         external-image: false
         picture: assets/images/profile.jpg
-        # twitter: johndoe
+        twitter: kigibek
+        instagram: kigibek
     # jamesfoster:
     #     name: James Foster
     #     bio: A Man who develops software with coffee
