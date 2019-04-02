@@ -4,43 +4,50 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am currently doing a Ph.D. at North Carolina State University in the Computer Science department. My research area is mostly within web security. In the past, I mostly worked in academia as a lecturer. In addition, I worked for small size companies as a web developer and successfully published the projects. My passion lies in developing secure web solutions. Currently interested in progressive web apps (PWA) development because I believe it will be larger than mobile application in the future. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>During a free time I like to read books about business, money, and sales, exersizing and spending time with my family.</p>
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<ol class="skill-list">
+	<li>Front-end technologies:
+		<ul>
+			<li>HTML</li>
+			<li>Responsive (Mobile First)</li>
+			<li>CSS (Stylus, Sass, Less)</li>
+			<li>Css Frameworks (Bootstrap)</li>
+			<li>Javascript (Design Patterns, Testes)</li>
+			<li>VueJS</li>
+		</ul>
+	</li>
+	<li>Backend technologies:
+		<ul>
+			<li>ASP.NET MVC4, ASP.NET Webforms, ASP.NET Core MVC</li>
+			<li>Laravel 5.*</li>
+			<li>Php, Java, C, C++, C#</li>
+			<li>MySQL, MS SQL, MongoDB, Redis</li>
+		</ul>
+	</li>
+	<li>DevOps Skills:
+		<ul>
+			<li>Git</li>
+			<li>Docker</li>
+			<li>Vagrant</li>
+			<li>MS Azure</li>
+			<li>Continuos Integration</li>
+			<li>npm, yarn</li>
+		</ul>
+	</li>
+	<li> Soft skills:
+		<ul>
+			<li>Scrum</li>
+			<li>Kanban</li>
+			<li>Agile development</li>
+		</ul>
+	</li>
+</ol>
 
 <h2>Projects</h2>
+<p>See in <a href="https://igibek.com/projects">projects</a> page for more information</p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
