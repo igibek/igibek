@@ -1,7 +1,7 @@
 ---
 title: "5 things I learned during my 5 years of experience"
 layout: post
-date: 2016-01-23 22:10
+date: 2019-03-14 22:10
 tag: web
 star: true
 description: "In this post I share 5 things I learned during my 5 years of experience as a developer."
