@@ -22,7 +22,7 @@ url: https://igibek.com
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-118843560-2'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: igibek
-twitter: kigibek
+# twitter: kigibek
 # google: mygoogle
 instagram: kigibek
 # pinterest: mypinterest
