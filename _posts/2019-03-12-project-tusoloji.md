@@ -1,9 +1,12 @@
 ---
-title: "Tusopsi - medical students exam preparation"
-layout: post
+title: "Tusopsi: medical students exam preparation"
+layout: project
 date: 2019-01-23 22:10
-tag: web
-image: https://igibek.com/assets/images/tusoloji.jpg
+tag: 
+  - web
+  - vuejs
+  - asp.net core
+image: tusopsi.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

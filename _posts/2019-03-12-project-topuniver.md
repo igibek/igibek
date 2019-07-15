@@ -1,9 +1,13 @@
 ---
 title: "Topuniver - Kazakhstan's top universities ratings"
-layout: post
+layout: project
 date: 2019-01-23 22:10
-tag: web
-image: https://igibek.com/assets/images/tusoloji.jpg
+tag: 
+  - web
+  - laravel
+  - php
+  - vuejs
+image: topuniver.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -12,16 +16,18 @@ category: project
 author: igibek
 externalLink: false
 ---
+
 ### Description
 [Demo](https://topuniver.com)
 
 ### Technologies used:
-**Backend**:
+
+__Backend__:
 1. Php, Composer
 2. Laravel framework
 3. MySQL
 
-**Front-end**
+__Front-end__:
 1. HTML, CSS
 2. Bootstrap
 3. JavaScript
