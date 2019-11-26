@@ -102,6 +102,10 @@ show-author: true
 # do you want some animations?
 animation: true
 
+# colections:
+  # - projects
+    # output: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist

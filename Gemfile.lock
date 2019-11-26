@@ -278,6 +278,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  commonmarker
   github-pages
   html-proofer
   jekyll-admin
