@@ -61,12 +61,6 @@ authors:
         picture: assets/images/profile.jpeg
         twitter: kigibek
         instagram: kigibek
-    # jamesfoster:
-    #     name: James Foster
-    #     bio: A Man who develops software with coffee
-    #     external-image: false
-    #     picture: assets/images/james.jpg
-    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -78,7 +72,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects-enable: true
 projects-assets: assets/images/projects
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -102,9 +96,23 @@ show-author: true
 # do you want some animations?
 animation: true
 
-# colections:
-  # - projects
-    # output: true
+collections:
+  projects:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      author: igibek
+  -
+    scope:
+      type: "projects"
+    values:
+      layout: "project"
+      author: igibek
 
 plugins:
   - jekyll-seo-tag
