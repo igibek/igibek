@@ -1,12 +1,8 @@
 ---
 title: "Why it is important to test the idea?"
-layout: post
-date: 2016-05-4 12:46
 tag:
 - thoughts
 star: true
-category: blog
-author: igibek
 description: Мои мысли о мужщинах
 ---
 More often when we come up with cool idea (next Uber, Facebook, Google) we tend to hide it, thinking that someone will stole it. And even if we share, we share it with our close friends, family or relatives. But it is really difficult to say that they will objectively judge the idea. With high probability they will just say that the idea is good and you should try to implement it.

@@ -1,12 +1,8 @@
 ---
 title: "In Asya's Own Words"
-layout: post
-date: 2019-04-22 12:46
 tag:
 - thoughts
 star: true
-category: blog
-author: igibek
 description: \#adilsailayushin the story of one brave girl and boy.
 ---
 Disclaimer: This post is one-to-one copy-paste from [Adamdar.ca](https://adamdar.ca/en/category/firsthand/in-asya-s-own-words). I decided to spread the word about bravity of the Asya, who tried to spoke up instead of hiding it. 

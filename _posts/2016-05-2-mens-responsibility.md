@@ -1,12 +1,8 @@
 ---
 title: "Man = Responsibility"
-layout: post
-date: 2016-05-4 12:46
 tag:
 - thoughts
 star: true
-category: blog
-author: igibek
 description: With strength comes responsibility
 ---
 > “Being a man is responsibility, not a privilege” (From Movie: “Salam, New York”)

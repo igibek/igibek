@@ -1,14 +1,10 @@
 ---
 title: "Github now offers automatic security dependency fix"
-layout: post
-date: 2019-07-15 14:09
 tag:
 - devops
 - automation
 - security
 star: true
-category: blog
-author: igibek
 description: "Github is testing automatic security fix by updating dependency tree."
 ---
 

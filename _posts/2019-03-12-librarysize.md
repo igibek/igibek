@@ -1,12 +1,8 @@
 ---
 title: "Кітапхана көлемі"
-layout: post
-date: 2019-03-12 12:46
 tag:
 - thoughts
 star: true
-category: blog
-author: igibek
 description: Бай болғың келсе, кітап оқы
 ---
 Ауқаттыларда үлкен кітапхана болса, кедейлерде үлкен теледидар бар.

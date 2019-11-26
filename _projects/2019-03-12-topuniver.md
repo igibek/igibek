@@ -1,7 +1,6 @@
 ---
 title: "Topuniver - Kazakhstan's top universities ratings"
 layout: project
-date: 2019-01-23 22:10
 tag: 
   - web
   - laravel
@@ -9,10 +8,7 @@ tag:
   - vuejs
 image: topuniver.jpg
 headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
 description: "Topuniver - Kazakhstan's top universities ratings and reviews."
-category: project
 author: igibek
 externalLink: false
 ---

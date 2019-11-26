@@ -1,13 +1,9 @@
 ---
 title: "Effective DevOps: Four Pillars"
-layout: post
-date: 2019-06-17 23:20
 tag:
 - devops
 - automation
 star: true
-category: blog
-author: igibek
 description: Interesting idea about four main pillars from the book "Effective Automation"
 ---
 

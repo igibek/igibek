@@ -1,12 +1,8 @@
 ---
 title: "О важности сердца"
-layout: post
-date: 2019-03-12 12:46
 tag:
 - thoughts
 star: true
-category: blog
-author: igibek
 description: Мои мысли о важности сердца
 ---
 Сердце самый важный орган в организме. Берегите свое сердце, ведь…
