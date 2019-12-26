@@ -2,6 +2,7 @@
 title: "Кітапхана көлемі"
 tag:
 - thoughts
+- ойлар
 star: true
 description: Бай болғың келсе, кітап оқы
 ---
