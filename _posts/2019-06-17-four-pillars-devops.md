@@ -3,7 +3,6 @@ title: "Effective DevOps: Four Pillars"
 tag:
 - devops
 - automation
-star: true
 description: Interesting idea about four main pillars from the book "Effective Automation"
 ---
 

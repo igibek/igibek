@@ -1,7 +1,8 @@
 ---
 title: "5 things I learned during my 5 years of experience"
-tag: web
-star: true
+tag: 
+- web
+- experience
 description: "In this post I share 5 things I learned during my 5 years of experience as a developer."
 ---
 In this post I will share with readers 5 things I learned during my 5 years of experience as a developer. These lessons I learned in a hard way, i.e. by paying with my time, energy, or money. 

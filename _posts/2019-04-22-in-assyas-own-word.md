@@ -2,7 +2,7 @@
 title: "In Asya's Own Words"
 tag:
 - thoughts
-star: true
+- democratic
 description: \#adilsailayushin the story of one brave girl and boy.
 ---
 Disclaimer: This post is one-to-one copy-paste from [Adamdar.ca](https://adamdar.ca/en/category/firsthand/in-asya-s-own-words). I decided to spread the word about bravity of the Asya, who tried to spoke up instead of hiding it. 

@@ -4,7 +4,6 @@ tag:
 - devops
 - automation
 - security
-star: true
 description: "Github is testing automatic security fix by updating dependency tree."
 ---
 
