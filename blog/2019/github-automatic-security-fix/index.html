@@ -2,16 +2,16 @@
 <html lang="en">
 
   
-  <head><meta http-equiv="refresh" content="3; url=https://igibek.com/" />    
+  <head>    
     
 
     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Igibek  Koishybayev | Page not found</title>
+    <title>Igibek  Koishybayev | Github now offers automatic security dependency fix</title>
     <meta name="author" content="Igibek  Koishybayev" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Github is testing automatic security fix by updating dependency tree." />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://igibek.com/404.html">
+    <link rel="canonical" href="https://igibek.com/blog/2019/github-automatic-security-fix/">
     
     
     
@@ -71,7 +71,7 @@
               </li>
               
               
-              <li class="nav-item ">
+              <li class="nav-item active">
                 <a class="nav-link" href="/blog/">blog</a>
               </li>
 
@@ -102,19 +102,37 @@
     
     <div class="container mt-5">
       
-        <div class="post">
 
-          <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
-          </header>
+<div class="post">
 
-          <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://igibek.com/">here</a>.</p>
+  <header class="post-header">
+    <h1 class="post-title">Github now offers automatic security dependency fix</h1>
+    <p class="post-meta">July 15, 2019</p>
+    <p class="post-tags">
+      <a href="/blog/2019"> <i class="fas fa-calendar fa-sm"></i> 2019 </a>
+        ·  
+        <a href="/blog/tag/devops">
+          <i class="fas fa-hashtag fa-sm"></i> devops</a>  
+          <a href="/blog/tag/automation">
+          <i class="fas fa-hashtag fa-sm"></i> automation</a>  
+          <a href="/blog/tag/security">
+          <i class="fas fa-hashtag fa-sm"></i> security</a>  
+          
 
-          </article>
+    </p>
+  </header>
 
-        </div>
+  <article class="post-content">
+    <p>Today I noticed an interesting feature from Github. They are testing out automatic fix of vulnerable dependency in your repository. Github will automatically create a branch with updated patch number of vulnerable dependency for you. Also, it will create a pull request for you, that you can verify and merge with the main (master) branch of the repository. If you accept to merge it, Github will delete the merged branch for you.</p>
+
+<p>Below you can see the screenshot of one of my repositories. In my opinion it is very cool feature for those who needs to keep there branch as secure as possible. Only one question remains: how stable it will be? What happens if developer do not follow semantic versioning and introduces breaking changes in a patched version?</p>
+
+<p><img src="https://igibek.com/assets/images/posts/github-automatic-security-fix.png" alt="Github Automatic Security Fix Screenshot"></p>
+
+
+  </article>
+
+</div>
 
     </div>
 
