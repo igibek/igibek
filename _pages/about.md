@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Candidate, Security Researcher, Software Engineer
+subtitle: Ph.D, Security Researcher, Software Engineer
 
 profile:
   align: right
