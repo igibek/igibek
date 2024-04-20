@@ -3,17 +3,18 @@ layout: page
 title: goshasum
 description: a CLI tool to recursively generate SHASUM file for a directory
 # img: assets/img/3.jpg
+github: https://github.com/igibek/goshasum
 importance: 2
 category: fun
 ---
 
-# Description
+## Description
 
 The goshasum is a CLI tool to create recursively shasum file for directory contents. 
 
 I developed this tool because of the need to calculate SHA of multiple files.
 
-## What is a shasum file?
+### What is a shasum file?
 The "shasum file" is an informal term for a simple text file containing checksums and their corresponding filenames. It can be used to verify the integrity of the files.
 
 Here is the example of the shasum file, called SHA256FILE.
@@ -27,7 +28,7 @@ ef7cd13aee9ab511051b3e927f960bf29ac7a2cf089945b6a2bfbb558e4732db go.mod
 
 You can call the Linux command shasum -c SHA256FILE to verify the checksums of all the files inside the repository directory.
 
-# Link:
-- GitHub Repository: [https://github.com/igibek/goshasum](https://github.com/igibek/goshasum)
+__Link:__
+- Repository: [https://github.com/igibek/goshasum](https://github.com/igibek/goshasum)
 
 
