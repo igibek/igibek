@@ -2,19 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D, Security Researcher, Software Engineer
+subtitle: Security Architect, Security Researcher and Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Raleigh, NC 27606</p>
+  address: Apex,NC 27502
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at North Carolina State University in the Computer Science department. My research area is within software supply chain security and JavaScript security (npm, ElectronJS, web applications). In the past, I spent time working in academia as a senior-lecturer. In addition, I worked for small-size companies as a software engineer and successfully published multiple projects. My passion lies in developing secure web/software solutions. Nowadays, my interests lie in supply-chain security, threat modeling, and penetration testing of CI/CD and distributed systems. Also, I follow web assembly, and PWA (progressive web applications)
+Hello there!
 
-During my free time, I love to spend time with my family, sharing the knowledge with high school and university students. I advocate for Capture the Flag competitions, and believe that the security must be taught in high schools.
+Welcome to my personal page.
+
+I am a Security Engineer and Research Scientist with over 10 years of experience in security risks, mitigation strategies, and secure coding practices. I earned my Ph.D. in Computer Science from North Carolina State University in 2023. My dissertation, titled "__Vulnerability Detection and Mitigation in the Software Supply Chain with Multi-Component Analysis__" focused on using multi-staged static code analysis to detect code injection vulnerabilities within GitHub Actions and its plugin ecosystem.
+
+Currently, I am a Security Engineer at Qualcomm, where I continue my research and professional work on software supply chain security.
+
+In my free time, I enjoy spending time with my family and sharing my knowledge with high school and university students. I am a strong advocate for Capture the Flag (CTF) competitions and believe that cybersecurity education should begin at the high school level.
